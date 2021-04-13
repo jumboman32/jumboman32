@@ -1,5 +1,10 @@
 ## About Me
 * Legendary 2b2t Player
+### Languages
+* HTML6
+* XML
+* C++
+* Python
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCbA12ihcYKAAI9aTfc6-dxg?style=social)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/jumboman32?style=social)
